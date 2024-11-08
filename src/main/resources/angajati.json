@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Vlad",
+    "post": "director",
+    "data_angajare": "2023-02-02",
+    "salariu": 3000
+  },
+  {
+    "nume": "Oana",
+    "post": "intern",
+    "data_angajare": "2024-10-23",
+    "salariu": 1000
+  },
+  {
+    "nume": "Lili",
+    "post": "intern",
+    "data_angajare": "2024-09-30",
+    "salariu": 1000
+  },
+  {
+    "nume": "Dani",
+    "post": "junior",
+    "data_angajare": "2023-12-02",
+    "salariu": 3000
+  },
+  {
+    "nume": "George",
+    "post": "sef",
+    "data_angajare": "2020-09-09",
+    "salariu": 6000
+  }
+]
